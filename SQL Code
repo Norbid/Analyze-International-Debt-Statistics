@@ -23,4 +23,4 @@ GROUP BY country_name, indicator_name
 ORDER BY lowest_repayment
 LIMIT 1;
 
-#It is Timor-leste
+#It is Timor-Leste
