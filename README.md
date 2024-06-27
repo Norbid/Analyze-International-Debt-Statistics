@@ -1,1 +1,1 @@
-# Analyze-International-Debt-Statistics
+In this project, I analyzed international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories. Using my data manipulation skills in SQL, I found out which countries have the highest and lowest amounts of debt.
